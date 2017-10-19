@@ -9,7 +9,7 @@ spec:
   source:
     type: "Git"
     git:
-      uri: "https://github.com/cmartins/workshop-php.git"
+      uri: "https://github.com/csmartins/workshop-php.git"
   strategy:
     type: "JenkinsPipeline"
     jenkinsPipelineStrategy:
